@@ -39,6 +39,9 @@ module.exports = {
       margin: {
         'xs': '-16px',
       },
+      maxHeight: {
+        'h-[540px]': '540px'
+      },
     },
   },
   plugins: [],
