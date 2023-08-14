@@ -69,7 +69,7 @@ const Nav = () => {
                             </a>
                         </li>
                     </ul>
-                    <a href="#" className="flex items-center md:order-3 order-2 md:mr-12 mr-5">
+                    <a href="./register" className="flex items-center md:order-3 order-2 md:mr-12 mr-5 group">
                         <span className="mx-2 md:order-3 order-2 mr-1 font-semibold">
                             Cart
                         </span>
