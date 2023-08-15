@@ -18,7 +18,7 @@ function App() {
       <Route path='/home' element={<Content/>} />
       </Switch>
     </Router>
-
+  
    
   );
 }
